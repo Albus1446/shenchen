@@ -1,0 +1,9 @@
+{
+  "mpcServers": {
+    "nightlight_query": {
+      "args": ["--longitude", "10.75", "--latitude", "59.91", "--output", "result.txt"],
+      "command": "python3 main.py --longitude 10.75 --latitude 59.91 --output result.txt",
+      "env": {}
+    }
+  }
+}
